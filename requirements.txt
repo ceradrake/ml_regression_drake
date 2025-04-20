@@ -1,0 +1,13 @@
+pip
+setuptools
+wheel
+ipython
+jupyter
+ipykernel
+ipywidgets
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
