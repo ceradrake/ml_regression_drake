@@ -139,7 +139,7 @@ The peer review must contain a clickable Markdown link to the notebook (.ipynb) 
 4-point Repository Checklist
 Verify your repository contains:
 
-[ ] Jupyter Notebook with proper name, numbered sections and reflections.
-[ ] README.md (see above) [ ] Dataset, stored in a data folder.
-[ ] Peer Review (peer_review.md).
+[ x] Jupyter Notebook with proper name, numbered sections and reflections.
+[x ] README.md (see above) [ ] Dataset, stored in a data folder.
+[x ] Peer Review (peer_review.md).
 
