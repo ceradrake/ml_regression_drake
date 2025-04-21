@@ -5,6 +5,11 @@ Author: Cera Drake
 [GitHub Link](https://github.com/ceradrake/ml_regression_drake/blob/main/regression.ipynb)
 Peer Review Link:  
 
+
+For this final project, I will use a medical charges data set to see if there is a link between smoker status, age, BMI, sex and overall medical charges
+
+Overall Findings: Based on the models that I used, it did show a positive correlation between smoker status and higher medical charges. There was also a positive correlation between BMI and medical charges. 
+
 Overview
 Businesses and organizations often need to understand the relationships between different factors to make better decisions. For example, a company may want to predict the fuel efficiency of a car based on its weight and engine size or estimate home prices based on square footage and location. Regression analysis helps identify and quantify these relationships between numerical features, providing insights that can be used for forecasting and decision-making.
 
